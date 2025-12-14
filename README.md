@@ -1,10 +1,13 @@
-![Header Image](URL_DA_SUA_IMAGEM_DE_CAPA_OU_DELETE_ISSO)
+# Olá, sou o Marcus 👋
 
-# Olá, sou o [Seu Nome].
-
-Sou **Gerente de Engenharia de Software** na **[Nome da Grande Empresa]** com foco em [Sua Especialidade, ex: Sistemas Distribuídos, Escala, Fintech].
-
-Com mais de **[X] anos de experiência**, minha transição de IC (Individual Contributor) para Gestão foi guiada pela paixão em construir times de alta performance e resolver problemas complexos de engenharia.
+**Engenheiro da Computação | Pós-graduando em Engenharia de Dados | Gestor de TI**
 
 ---
 
+### 🚀 Sobre Mim
+
+Atuo como **Gestor de TI** na **Paulo Barros & Advogados**, unindo minha base técnica em Engenharia da Computação com a estratégia necessária para o setor jurídico.
+
+Atualmente, dedico meus estudos à **Engenharia de Dados**, focando em pipelines, cloud e analytics para apoiar decisões de negócio.
+
+🌌 **Além do código:** Sou apaixonado por **Ciências Planetárias**. A complexidade do universo é minha maior inspiração para resolver problemas aqui na Terra.
